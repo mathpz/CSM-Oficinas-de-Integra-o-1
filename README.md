@@ -1,4 +1,4 @@
-# CSM-Oficinas-de-Integra-o-1
+# CSM-Oficinas-de-Integracao-1
 
 Tabalho acadêmico feito para a disciplina de Oficinas de integração 1 do curso de Engenharia da Computação - UTFPR
 
